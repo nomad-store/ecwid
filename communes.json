@@ -1,5 +1,5 @@
 {
-  "Adrar": [
+  "01": [
     "Adrar",
     "Akabli",
     "Aoulef",
@@ -17,7 +17,7 @@
     "Tsabit",
     "Zaouiet Kounta"
   ],
-  "Chlef": [
+  "02": [
     "Abou El Hassan",
     "Aïn Merane",
     "Beni Bouateb",
@@ -54,7 +54,7 @@
     "Ténès",
     "Zeboudja"
   ],
-  "Laghouat": [
+  "03": [
     "Aflou",
     "Aïn Madhi",
     "Aïn Sidi Ali",
@@ -80,7 +80,7 @@
     "Tadjrouna",
     "Taouiala"
   ],
-  "Oum El Bouaghi": [
+  "04": [
     "Aïn Babouche",
     "Aïn Beïda",
     "Aïn Diss",
@@ -111,7 +111,7 @@
     "Souk Naamane",
     "Zorg"
   ],
-  "Batna": [
+  "05": [
     "Abdelkader Azil",
     "Arris",
     "Aïn Djasser",
@@ -174,7 +174,7 @@
     "Timgad",
     "Zanat El Beida"
   ],
-  "Béjaïa": [
+  "06": [
     "Adekar",
     "Ait Djellil",
     "Akbou",
@@ -228,7 +228,7 @@
     "Tizi N'Berber",
     "Toudja"
   ],
-  "Biskra": [
+  "07": [
     "Aïn Naga",
     "Aïn Zaatout",
     "Biskra",
@@ -257,7 +257,7 @@
     "Tolga",
     "Zeribet El Oued"
   ],
-  "Béchar": [
+  "08": [
     "Abadla",
     "Beni Ounif",
     "Boukais",
@@ -270,7 +270,7 @@
     "Mougheul",
     "Taghit"
   ],
-  "Blida": [
+  "09": [
     "Aïn Romana",
     "Beni Mered",
     "Beni Tamou",
@@ -297,7 +297,7 @@
     "Souhane",
     "Soumaa"
   ],
-  "Bouira": [
+  "10": [
     "Aghbalou",
     "Ahl El Ksar",
     "Aomar",
@@ -344,14 +344,14 @@
     "Taguedit",
     "Zbarbar"
   ],
-  "Tamanrasset": [
+  "11": [
     "Abalessa",
     "Idles",
     "In Amguel",
     "Tamanrasset",
     "Tazrouk"
   ],
-  "Tébessa": [
+  "12": [
     "Aïn Zerga",
     "Bedjene",
     "Bekkaria",
@@ -381,7 +381,7 @@
     "Tlidjene",
     "Tébessa"
   ],
-  "Tlemcen": [
+  "13": [
     "Amieur",
     "Azails",
     "Aïn Fetah",
@@ -436,7 +436,7 @@
     "Tlemcen",
     "Zenata"
   ],
-  "Tiaret": [
+  "14": [
     "Aïn Bouchekif",
     "Aïn Deheb",
     "Aïn Dzarit",
@@ -480,7 +480,7 @@
     "Tousnina",
     "Zmalet El Emir Abdelkader"
   ],
-  "Tizi Ouzou": [
+  "15": [
     "Abi Youcef",
     "Aghribs",
     "Agouni Gueghrane",
@@ -549,7 +549,7 @@
     "Yatafen",
     "Zekri"
   ],
-  "Alger": [
+  "16": [
     "Alger Centre",
     "Aïn Benian",
     "Aïn Taya",
@@ -608,7 +608,7 @@
     "Tessala El Merdja",
     "Zeralda"
   ],
-  "Djelfa": [
+  "17": [
     "Amourah",
     "Aïn Chouhada",
     "Aïn El Ibel",
@@ -646,7 +646,7 @@
     "Zaafrane",
     "Zaccar"
   ],
-  "Jijel": [
+  "18": [
     "Bordj Tahar",
     "Boucif Ouled Askeur",
     "Boudriaa Ben Yadjis",
@@ -676,7 +676,7 @@
     "Texenna",
     "Ziama Mansouriah"
   ],
-  "Saïda": [
+  "20": [
     "Aïn El Hadjar",
     "Aïn Sekhouna",
     "Aïn Soltane",
@@ -694,7 +694,7 @@
     "Tircine",
     "Youb"
   ],
-  "Skikda": [
+  "21": [
     "Azzaba",
     "Aïn Bouziane",
     "Aïn Charchar",
@@ -734,7 +734,7 @@
     "Zerdaza",
     "Zitouna"
   ],
-  "Sidi Bel Abbès": [
+  "22": [
     "Amarnas",
     "Aïn Adden",
     "Aïn El Berd",
@@ -788,7 +788,7 @@
     "Tilmouni",
     "Zerouala"
   ],
-  "Annaba": [
+  "23": [
     "Annaba",
     "Aïn Berda",
     "Berrahal",
@@ -802,7 +802,7 @@
     "Sidi Amar",
     "Treat"
   ],
-  "Guelma": [
+  "24": [
     "Aïn Ben Beida",
     "Aïn Larbi",
     "Aïn Makhlouf",
@@ -838,7 +838,7 @@
     "Sellaoua Announa",
     "Tamlouka"
   ],
-  "Constantine": [
+  "25": [
     "Aïn Abid",
     "Aïn Smara",
     "Beni Hamiden",
@@ -852,7 +852,7 @@
     "Ouled Rahmoune",
     "Zighoud Youcef"
   ],
-  "Médéa": [
+  "26": [
     "Aissaouia",
     "Aziz",
     "Aïn Boucif",
@@ -918,7 +918,7 @@
     "Tlatet Eddouar",
     "Zoubiria"
   ],
-  "Mostaganem": [
+  "27": [
     "Abdelmalek Ramdane",
     "Achaacha",
     "Aïn Boudinar",
@@ -952,7 +952,7 @@
     "Stidia",
     "Tazgait"
   ],
-  "M'Sila": [
+  "28": [
     "Aïn El Hadjel",
     "Aïn El Melh",
     "Aïn Errich",
@@ -1001,7 +1001,7 @@
     "Tarmount",
     "Zarzour"
   ],
-  "Mascara": [
+  "29": [
     "Alaïmia",
     "Aouf",
     "Aïn Fares",
@@ -1050,7 +1050,7 @@
     "Zahana",
     "Zelmata"
   ],
-  "Ouargla": [
+  "30": [
     "Aïn Beida",
     "Hassi Ben Abdellah",
     "Hassi Messaoud",
@@ -1059,7 +1059,7 @@
     "Rouissat",
     "Sidi Khouiled"
   ],
-  "Oran": [
+  "31": [
     "Arzew",
     "Aïn El Bia",
     "Aïn El Kerma",
@@ -1087,7 +1087,7 @@
     "Sidi Chami",
     "Tafraoui"
   ],
-  "El Bayadh": [
+  "32": [
     "Arbaouat",
     "Aïn El Orak",
     "Boualem",
@@ -1111,13 +1111,13 @@
     "Stitten",
     "Tousmouline"
   ],
-  "Illizi": [
+  "33": [
     "Bordj Omar Driss",
     "Debdeb",
     "Illizi",
     "In Amenas"
   ],
-  "Bordj Bou Arreridj": [
+  "34": [
     "Aïn Taghrout",
     "Aïn Tesra",
     "Belimour",
@@ -1153,7 +1153,7 @@
     "Teniet En Nasr",
     "Tixter"
   ],
-  "Boumerdès": [
+  "35": [
     "Afir",
     "Ammal",
     "Baghlia",
@@ -1187,7 +1187,7 @@
     "Timezrit",
     "Zemmouri"
   ],
-  "El Tarf": [
+  "36": [
     "Asfour",
     "Aïn El Assel",
     "Aïn Kerma",
@@ -1213,11 +1213,11 @@
     "Zerizer",
     "Zitouna"
   ],
-  "Tindouf": [
+  "37": [
     "Oum el Assel",
     "Tindouf"
   ],
-  "Tissemsilt": [
+  "38": [
     "Ammari",
     "Beni Chaib",
     "Beni Lahcene",
@@ -1241,7 +1241,7 @@
     "Tissemsilt",
     "Youssoufia"
   ],
-  "El Oued": [
+  "39": [
     "Bayadha",
     "Beni Guecha",
     "Debila",
@@ -1265,7 +1265,7 @@
     "Taleb Larbi",
     "Trifaoui"
   ],
-  "Khenchela": [
+  "40": [
     "Aïn Touila",
     "Babar",
     "Baghai",
@@ -1288,7 +1288,7 @@
     "Taouzient",
     "Yabous"
   ],
-  "Souk Ahras": [
+  "41": [
     "Aïn Soltane",
     "Aïn Zana",
     "Bir Bou Haouch",
@@ -1316,7 +1316,7 @@
     "Zaarouria",
     "Zouabi"
   ],
-  "Tipaza": [
+  "42": [
     "Aghbal",
     "Ahmar El Aïn",
     "Attatba",
@@ -1346,7 +1346,7 @@
     "Sidi Semiane",
     "Tipaza"
   ],
-  "Mila": [
+  "43": [
     "Ahmed Rachedi",
     "Amira Arrès",
     "Aïn Beida Harriche",
@@ -1380,7 +1380,7 @@
     "Yahia Beni Guecha",
     "Zeghaia"
   ],
-  "Aïn Defla": [
+  "44": [
     "Arib",
     "Aïn Benian",
     "Aïn Bouyahia",
@@ -1418,7 +1418,7 @@
     "Tiberkanine",
     "Zeddine"
   ],
-  "Naâma": [
+  "45": [
     "Assela",
     "Aïn Ben Khelil",
     "Aïn Sefra",
@@ -1432,7 +1432,7 @@
     "Sfissifa",
     "Tiout"
   ],
-  "Aïn Témouchent": [
+  "46": [
     "Aghlal",
     "Aoubellil",
     "Aïn El Arbaa",
@@ -1462,7 +1462,7 @@
     "Tamzoura",
     "Terga"
   ],
-  "Ghardaïa": [
+  "47": [
     "Berriane",
     "Bounoura",
     "Dhayet Bendhahoua",
@@ -1474,7 +1474,7 @@
     "Sebseb",
     "Zelfana"
   ],
-  "Relizane": [
+  "48": [
     "Ammi Moussa",
     "Aïn Rahma",
     "Aïn Tarek",
@@ -1514,7 +1514,7 @@
     "Yellel",
     "Zemmora"
   ],
-  "Timimoun": [
+  "49": [
     "Aougrout",
     "Charouine",
     "Deldoul",
@@ -1526,16 +1526,72 @@
     "Timimoun",
     "Tinerkouk"
   ],
-  "Bordj Badji Mokhtar": [
+  "50": [
     "Bordj Badji Mokhtar",
     "Timiaouine"
   ],
-  "Ouled Djellal": [
+  "51": [
     "Besbes",
     "Doucen",
     "Ech Chaïba",
     "Ouled Djellal",
     "Ras El Miaad",
     "Sidi Khaled"
+  ],
+  "52": [
+    "Beni Ikhlef",
+    "Béni Abbès",
+    "El Ouata",
+    "Igli",
+    "Kerzaz",
+    "Ksabi",
+    "Ouled Khoudir",
+    "Tabelbala",
+    "Tamtert",
+    "Timoudi"
+  ],
+  "53": [
+    "Foggaret Ezzaouia",
+    "In Ghar",
+    "In Salah"
+  ],
+  "54": [
+    "In Guezzam",
+    "Tin Zaouatine"
+  ],
+  "55": [
+    "Benaceur",
+    "Blidet Amor",
+    "El Allia",
+    "El Borma",
+    "El Hadjira",
+    "M'Naguer",
+    "Megarine",
+    "Nezla",
+    "Sidi Slimane",
+    "Taibet",
+    "Tamacine",
+    "Tebesbest",
+    "Touggourt",
+    "Zaouia El Abidia"
+  ],
+  "56": [
+    "Bordj El Haouas",
+    "Djanet"
+  ],
+  "57": [
+    "Djamaa",
+    "El M'Ghair",
+    "M'Rara",
+    "Oum Touyour",
+    "Sidi Amrane",
+    "Sidi Khellil",
+    "Still",
+    "Tendla"
+  ],
+  "58": [
+    "El Menia",
+    "Hassi Fehal",
+    "Hassi Gara"
   ]
 }
